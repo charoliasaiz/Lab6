@@ -44,13 +44,18 @@ table {
 
 }
 
+/* 
+ Table CSS referred from W3schools
+ URL: https://www.w3schools.com/css/css_table.asp
+ Date Accessed: 03/09/2023
+ */
 th, td {
   padding: 10px;
   text-align: left;
 }
 
 th {
-  background-color: #4CAF50;
+  background-color: lightblue;
   color: white;
 }
 

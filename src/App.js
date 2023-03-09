@@ -3,7 +3,7 @@ import './App.css';
 import Table from 'react-bootstrap/Table';
 
 function App() {
-  // Tabel referred from React Bootstrap
+  // Table referred from React Bootstrap
   // URL: https://react-bootstrap.github.io/components/table/
   // Date Accessed: 03/09/2023
   return (
