@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  background-color: #f7f7f7;
+  font-family: Arial, sans-serif;
+  color: #333;
+
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
