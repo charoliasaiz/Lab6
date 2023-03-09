@@ -1,5 +1,5 @@
-Netlify URL:
-Git URL:
+Netlify URL: https://unique-baklava-e36d18.netlify.app/
+Git URL: https://git.cs.dal.ca/charolia/b00834310_web_centric_computing_csci3172/-/tree/main/LAB/LAB6
 
 Citation
 1. Table referred from React Bootstrap
